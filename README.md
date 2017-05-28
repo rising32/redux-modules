@@ -32,4 +32,4 @@ You'll just need to change your containers to use selectors from the `entities` 
 
 ## License
 
-MIT © [Diego Haz](https://github.com/diegohaz)
+MIT © [Diego Haz](https://github.com/rising32)
