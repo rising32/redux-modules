@@ -29,7 +29,3 @@ A redux module would take care of and encapsulate the normalization feature (see
 You'll just need to change your containers to use selectors from the `entities` module instead of the `articles`, `users` and `comments` ones.
 
 ![Nice](https://media3.giphy.com/media/ENagATV1Gr9eg/giphy.gif)
-
-## License
-
-MIT © [Diego Haz](https://github.com/rising32)
